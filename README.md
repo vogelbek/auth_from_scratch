@@ -27,7 +27,7 @@ This project follows [RailsCast #250][1], which shows how to create a sign up an
 
 
 ### Links List
-1. [1]
+1. [RailsCast #250][1]
 
-[1]: http://railscasts.com/episodes/250-authentication-from-scratch "RailsCast #250"
+[1]: http://railscasts.com/episodes/250-authentication-from-scratch "#250 - Authentication from Scratch"
 
