@@ -20,11 +20,14 @@ This project follows [RailsCast #250][1], which shows how to create a sign up an
 
 ## There will be an inital user you can work with
 
+| Field    | Value            |
 | -------- | ---------------- |
 | Username | testuser         |
 | Password | TestUserPassword |
 
 
 ### Links List
+1. [1]
+
 [1]: http://railscasts.com/episodes/250-authentication-from-scratch "RailsCast #250"
 
