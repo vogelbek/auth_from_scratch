@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-group :test do
+group :development, :test do
   gem 'minitest-rails-capybara'
 end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
